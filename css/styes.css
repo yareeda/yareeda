@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+h1{
+    size: 20px;
+}
+img{
+background-color: coral;
+}
+.mucshroom{
+    background-color: aliceblue;
+}
+.Potted Plant{
+background-color: chartreuse;
+}
+.circular{
+border-radius: 100%;
+
+}
+#heading{
+    color: darkred;
+}
